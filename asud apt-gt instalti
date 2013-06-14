@@ -1,0 +1,381 @@
+[33mcommit da8e0bacef42abd205ccc8580d1652030f151ed7[m
+Merge: 86f882b bdd3996
+Author: yoyowang <youweb0518@163.com>
+Date:   Thu Jun 13 11:25:44 2013 +0800
+
+    spoon adjust
+
+[33mcommit 86f882bdbb2e22dec357aaf52b80c94bd1f57298[m
+Author: yoyowang <youweb0518@163.com>
+Date:   Thu Jun 13 10:31:19 2013 +0800
+
+    ooooooooooooooooootest feel free to ask for leave
+
+[1mdiff --git a/hello.a b/hello.a[m
+[1mindex ffc202b..cd1829d 100644[m
+[1m--- a/hello.a[m
+[1m+++ b/hello.a[m
+[36m@@ -2,5 +2,4 @@[m
+ 2[m
+ 3[m
+ 23434[m
+[31m-[m
+[31m-try to finish the bug3[m
+[32m+[m[32mg3[m
+[1mdiff --git a/hello.b b/hello.b[m
+[1mindex 6bd046e..5baf2f8 100644[m
+[1m--- a/hello.b[m
+[1m+++ b/hello.b[m
+[36m@@ -1,4 +1,5 @@[m
+ test[m
+ if[m
+ [m
+[31m-else[m
+[32m+[m[32melsee[m
+[32m+[m[32me[m
+
+[33mcommit 6f60423f8782df1a8f3f617454e07cee6a81637f[m
+Author: yoyowang <youweb0518@163.com>
+Date:   Thu Jun 13 10:29:03 2013 +0800
+
+    third times
+
+[1mdiff --git a/hello.a b/hello.a[m
+[1mindex c03d427..ffc202b 100644[m
+[1m--- a/hello.a[m
+[1m+++ b/hello.a[m
+[36m@@ -1,4 +1,6 @@[m
+ 1[m
+ 2[m
+ 3[m
+[31m-234343[m
+[32m+[m[32m23434[m
+[32m+[m
+[32m+[m[32mtry to finish the bug3[m
+[1mdiff --git a/hello.b b/hello.b[m
+[1mnew file mode 100644[m
+[1mindex 0000000..6bd046e[m
+[1m--- /dev/null[m
+[1m+++ b/hello.b[m
+[36m@@ -0,0 +1,4 @@[m
+[32m+[m[32mtest[m
+[32m+[m[32mif[m
+[32m+[m
+[32m+[m[32melse[m
+
+[33mcommit 51df702b5d7b6a44117045a95301a68b5312cc9f[m
+Author: yoyowang <youweb0518@163.com>
+Date:   Thu Jun 13 10:16:08 2013 +0800
+
+    hello.a second read
+
+[1mdiff --git a/hello.a b/hello.a[m
+[1mindex d70f6df..c03d427 100644[m
+[1m--- a/hello.a[m
+[1m+++ b/hello.a[m
+[36m@@ -1,4 +1,4 @@[m
+ 1[m
+ 2[m
+ 3[m
+[31m-[m
+[32m+[m[32m234343[m
+
+[33mcommit ef967eee36775b02fab5041cb737e91058a1ccc2[m
+Author: yoyowang <youweb0518@163.com>
+Date:   Thu Jun 13 10:04:52 2013 +0800
+
+    hello first version
+
+[1mdiff --git a/Spoon-Knife b/Spoon-Knife[m
+[1mnew file mode 160000[m
+[1mindex 0000000..bdd3996[m
+[1m--- /dev/null[m
+[1m+++ b/Spoon-Knife[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mSubproject commit bdd3996d38d885e18e5c5960df1c2c06e34d673f[m
+[1mdiff --git a/hello.a b/hello.a[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d70f6df[m
+[1m--- /dev/null[m
+[1m+++ b/hello.a[m
+[36m@@ -0,0 +1,4 @@[m
+[32m+[m[32m1[m
+[32m+[m[32m2[m
+[32m+[m[32m3[m
+[32m+[m
+
+[33mcommit 89901f9d32a701081fa4d70ef88b640077a632c3[m
+Merge: bfdc4fd ef95685
+Author: yoyowang <youweb0518@gmail.com>
+Date:   Sun Jun 9 13:01:44 2013 +0800
+
+    Merge branch 'master' of https://github.com/yoyowang/legacy
+
+[33mcommit bfdc4fd1c038fcea7761746ebf13601e0d4164b7[m
+Author: yoyowang <youweb0518@gmail.com>
+Date:   Sun Jun 9 10:29:34 2013 +0800
+
+    introduce for legacy
+
+[1mdiff --git a/README b/README[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8f4809b[m
+[1m--- /dev/null[m
+[1m+++ b/README[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mhello legacy~[m
+
+[33mcommit ef956853c68353daf1a39e64cdb5d89a07912cfb[m
+Author: yoyowang <youweb0518@gmail.com>
+Date:   Sat Jun 8 00:41:27 2013 -0700
+
+    Initial commit
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..11211fe[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1,4 @@[m
+[32m+[m[32mlegacy[m
+[32m+[m[32m======[m
+[32m+[m
+[32m+[m[32mfor tw legacy test[m
+
+[33mcommit bdd3996d38d885e18e5c5960df1c2c06e34d673f[m
+Merge: fd0a1b2 79a1dc0
+Author: GitHub Merge Button <merge-button@github.com>
+Date:   Thu Apr 21 09:32:49 2011 -0700
+
+    Merged pull request #9.
+
+[33mcommit 79a1dc04c4ef9ebec195e644ef0f8084f8b17467[m
+Author: Zhuowei Zhang <zhuoweizhang@yahoo.com>
+Date:   Fri Apr 1 20:11:05 2011 -0700
+
+    Added hidden double rainbow reference; added title
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex fc8f5f1..79eddc4 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -4,7 +4,7 @@[m
+ <head>[m
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>[m
+ [m
+[31m-  <title>Untitled</title>[m
+[32m+[m[32m  <title>Spoon-Knife</title>[m
+   <style type="text/css">[m
+     * {[m
+       margin:0px;[m
+[36m@@ -23,8 +23,29 @@[m
+       margin: 50px auto;[m
+       font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;[m
+     }[m
+[32m+[m[32m    #rainbow-message {[m
+[32m+[m[32m      position: absolute;[m
+[32m+[m[32m      right: 10px;[m
+[32m+[m[32m      top: 10px;[m
+[32m+[m[32m      box-shadow: -5px 10px 15px gray;[m
+[32m+[m[32m      -moz-box-shadow: -5px 10px 15px gray;[m
+[32m+[m[32m      font-family: sans-serif;[m
+[32m+[m[32m    }[m
+     [m
+   </style>[m
+[32m+[m[32m  <script type="text/javascript">[m
+[32m+[m	[32mvar keyCodes=new Array(10);[m
+[32m+[m	[32mvar pattern=[38,38,40,40,37,39,37,39,66,65];[m
+[32m+[m	[32mfunction keydownHandler(e){[m
+[32m+[m		[32mkeyCodes.shift();[m
+[32m+[m		[32mkeyCodes.push(e.keyCode);[m
+[32m+[m		[32mif(keyCodes.every(function(element, index, array){return element===pattern[index];})){[m
+[32m+[m			[32mdocument.getElementById("rainbow-message").style.display="";[m
+[32m+[m		[32m}[m
+[32m+[m	[32m}[m
+[32m+[m	[32mwindow.onkeydown=keydownHandler;[m
+[32m+[m[32m   </script>[m
+[32m+[m[41m		[m
+ </head>[m
+ [m
+ <body>[m
+[36m@@ -34,6 +55,9 @@[m
+ <p>[m
+   Fork me? No, fork you![m
+ </p>[m
+[31m-[m
+[32m+[m[32m<div id="rainbow-message" style="display:none">[m
+[32m+[m[32mDouble repositories all the way across the sky!<br/>[m
+[32m+[m[32m<a href="http://help.github.com/fork-a-repo/">What does it mean?</a>[m
+[32m+[m[32m</div>[m
+ </body>[m
+ </html>[m
+
+[33mcommit fd0a1b26db73410692acdd21e36a3ea58e6fe4b5[m
+Author: Alex Xu <alex@alex-desktop>
+Date:   Sat Mar 26 22:36:51 2011 -0400
+
+    lowercase doctype html, uppercase untitled, no width/height on img, space after css
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex af4f8e8..fc8f5f1 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,10 +1,10 @@[m
+[31m-<!DOCTYPE HTML>[m
+[32m+[m[32m<!DOCTYPE html>[m
+ [m
+ <html>[m
+ <head>[m
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>[m
+ [m
+[31m-  <title>untitled</title>[m
+[32m+[m[32m  <title>Untitled</title>[m
+   <style type="text/css">[m
+     * {[m
+       margin:0px;[m
+[36m@@ -18,7 +18,7 @@[m
+     }[m
+     [m
+     p {[m
+[31m-      display:block;[m
+[32m+[m[32m      display: block;[m
+       width: 400px;[m
+       margin: 50px auto;[m
+       font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;[m
+[36m@@ -29,7 +29,7 @@[m
+ [m
+ <body>[m
+ [m
+[31m-<img src="forkit.gif" width="384" height="236" id="octocat" alt="" />[m
+[32m+[m[32m<img src="forkit.gif" id="octocat" alt="" />[m
+ [m
+ <p>[m
+   Fork me? No, fork you![m
+
+[33mcommit f756e5214eb7c313566f43e349a8f8f66ff2d044[m
+Author: The Octocat <octocat@github.com>
+Date:   Wed Mar 2 09:40:11 2011 -0800
+
+    doctype html
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex f1426fd..af4f8e8 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,31 +1,30 @@[m
+[31m-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"[m
+[31m-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">[m
+[32m+[m[32m<!DOCTYPE HTML>[m
+ [m
+[31m-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">[m
+[32m+[m[32m<html>[m
+ <head>[m
+[31m-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>[m
+[32m+[m[32m  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>[m
+ [m
+[31m-	<title>untitled</title>[m
+[31m-	<style type="text/css">[m
+[31m-		* {[m
+[31m-			margin:0px;[m
+[31m-			padding:0px;	[m
+[31m-		}[m
+[31m-		[m
+[31m-		#octocat {[m
+[31m-			display: block;[m
+[31m-			width:384px;[m
+[31m-			margin: 50px auto;	[m
+[31m-		}[m
+[31m-		[m
+[31m-		p {[m
+[31m-			display:block;[m
+[31m-			width: 400px;[m
+[31m-			margin: 50px auto;	[m
+[31m-			font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;[m
+[31m-		}[m
+[31m-		[m
+[31m-	</style>[m
+[32m+[m[32m  <title>untitled</title>[m
+[32m+[m[32m  <style type="text/css">[m
+[32m+[m[32m    * {[m
+[32m+[m[32m      margin:0px;[m
+[32m+[m[32m      padding:0px;[m
+[32m+[m[32m    }[m
+[32m+[m[41m    [m
+[32m+[m[32m    #octocat {[m
+[32m+[m[32m      display: block;[m
+[32m+[m[32m      width:384px;[m
+[32m+[m[32m      margin: 50px auto;[m
+[32m+[m[32m    }[m
+[32m+[m[41m    [m
+[32m+[m[32m    p {[m
+[32m+[m[32m      display:block;[m
+[32m+[m[32m      width: 400px;[m
+[32m+[m[32m      margin: 50px auto;[m
+[32m+[m[32m      font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;[m
+[32m+[m[32m    }[m
+[32m+[m[41m    [m
+[32m+[m[32m  </style>[m
+ </head>[m
+ [m
+ <body>[m
+[36m@@ -33,7 +32,7 @@[m
+ <img src="forkit.gif" width="384" height="236" id="octocat" alt="" />[m
+ [m
+ <p>[m
+[31m-	Fork me? No, fork you![m
+[32m+[m[32m  Fork me? No, fork you![m
+ </p>[m
+ [m
+ </body>[m
+
+[33mcommit ed12290ba92e1b0a932f5250e06699a0abf47e84[m
+Author: Dave Hulbert <dave.hulbert@basecreativeagency.com>
+Date:   Wed Mar 2 09:26:18 2011 +0000
+
+    Fix invalid HTML
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 8fe961d..f1426fd 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -30,7 +30,7 @@[m
+ [m
+ <body>[m
+ [m
+[31m-<img src="forkit.gif" width="384" height="236" id="octocat">[m
+[32m+[m[32m<img src="forkit.gif" width="384" height="236" id="octocat" alt="" />[m
+ [m
+ <p>[m
+ 	Fork me? No, fork you![m
+
+[33mcommit 7b08a45c5f64c7b0174e5c927b7476a349ffd118[m
+Author: The Octocat <octocat@github.com>
+Date:   Fri Feb 25 13:32:27 2011 -0800
+
+    + Heh.
+
+[1mdiff --git a/README b/README[m
+[1mindex d7834ba..c8f68c2 100644[m
+[1m--- a/README[m
+[1m+++ b/README[m
+[36m@@ -1 +1 @@[m
+[31m-All that's missing is the fork.[m
+\ No newline at end of file[m
+[32m+[m[32mAll that's missing is the fork. Heh.[m
+\ No newline at end of file[m
+
+[33mcommit 9bb69df77e6a36973baef4aadd4ca7c411761335[m
+Author: The Octocat <octocat@github.com>
+Date:   Thu Feb 24 14:15:50 2011 -0800
+
+    Updated the name and readme
+
+[1mdiff --git a/README b/README[m
+[1mindex e6dc5d2..d7834ba 100644[m
+[1m--- a/README[m
+[1m+++ b/README[m
+[36m@@ -1 +1 @@[m
+[31m-Follow the tutorial to learn how to fork this project.[m
+\ No newline at end of file[m
+[32m+[m[32mAll that's missing is the fork.[m
+\ No newline at end of file[m
