@@ -1,0 +1,6 @@
+12oo
+function p() {
+console.log('hello');
+}
+p();
+3
